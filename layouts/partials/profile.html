@@ -1,11 +1,13 @@
 <div class="profile">
     <section id="wrapper">
         <header id="header">
-            <a href='{{ .Site.BaseURL }}about'>
-                <img id="avatar" class="2x" src="{{ .Site.BaseURL }}images/avatar.png"/>
+            <a href='{{ .Site.BaseURL }}'>
+                <img id="avatar" class="2x" src="{{ .Site.BaseURL }}images/JG-avatar.png"/>
             </a>
+            <section id="head-text">
             <h1>{{ .Site.Params.name }}</h1>
             <h2>{{ .Site.Params.bio | markdownify }}</h2>
+          </section>
         </header>
     </section>
 </div>

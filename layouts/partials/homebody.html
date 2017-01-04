@@ -1,0 +1,11 @@
+<div class="homebody">
+  	{{ range $key, $val := .Site.Social }}
+    {{ if eq $key "blog"}}
+      <a href='{{ $val }}'>
+    {{ else }}
+      <a href='{{ $val }}' target="_blank">
+    {{ end }}
+          <img id="item"  src="{{ $.Site.BaseURL }}images/{{ $key }}.png"/>
+      </a>
+  {{ end }}
+</div>
