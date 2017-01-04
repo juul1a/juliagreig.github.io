@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Julia Greig</title>
+    <link>http://juliagreig.github.io/about/</link>
+    <description>Recent content in Abouts on Julia Greig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Sep 2016 15:50:03 -0400</lastBuildDate>
+    <atom:link href="http://juliagreig.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://juliagreig.github.io/about/</link>
+      <pubDate>Sat, 24 Sep 2016 15:50:03 -0400</pubDate>
+      
+      <guid>http://juliagreig.github.io/about/</guid>
+      <description>&lt;p&gt;still in progress ~ but until then enjoy this pic of me freezing my butt off at the toronto harbourfront!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
