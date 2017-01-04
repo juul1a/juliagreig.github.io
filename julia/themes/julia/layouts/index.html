@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+    <h1>Hello, world!</h1>
+    <h1>Articles</h1>
+    {{- range first 10 .Data.Pages }}
+      {{- if eq .Type "article"}}
+      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+      {{- end -}}
+    {{- end }}
+    <h2>Pages whoa</h2>
+    {{- range first 10 .Data.Pages -}}
+      {{- if eq .Type "page" }}
+      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+      {{- end -}}
+    {{- end }}
+
+    <script src="https://code.jquery.com/jquery.js"></script>
+  </body>
+</html>
