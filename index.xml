@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Julia Greig</title>
+    <title>Julia</title>
     <link>https://juliagreig.github.io/</link>
-    <description>Recent content on Julia Greig</description>
+    <description>Recent content on Julia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Sep 2016 15:50:03 -0400</lastBuildDate>
-    <atom:link href="https://juliagreig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://juliagreig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About</title>
@@ -15,32 +17,30 @@
       <pubDate>Sat, 24 Sep 2016 15:50:03 -0400</pubDate>
       
       <guid>https://juliagreig.github.io/about/</guid>
-      <description>&lt;p&gt;still in progress ~ but until then enjoy this pic of me freezing my butt off at the toronto harbourfront!&lt;/p&gt;
-</description>
+      <description>still in progress ~ but until then enjoy this pic of me freezing my butt off at the toronto harbourfront!</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://juliagreig.github.io/blog/Second/</link>
+      <link>https://juliagreig.github.io/blog/second/</link>
       <pubDate>Sat, 24 Sep 2016 15:30:19 -0400</pubDate>
       
-      <guid>https://juliagreig.github.io/blog/Second/</guid>
-      <description>&lt;p&gt;Juia&amp;rsquo;s Second article&lt;/p&gt;
-
-&lt;p&gt;Hey this is where juia also does some cool (ver cool) stuff&lt;/p&gt;
-</description>
+      <guid>https://juliagreig.github.io/blog/second/</guid>
+      <description>Juia&amp;rsquo;s Second article
+Hey this is where juia also does some cool (ver cool) stuff</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://juliagreig.github.io/blog/firstpost/</link>
+      <link>https://juliagreig.github.io/blog/first/</link>
       <pubDate>Sat, 24 Sep 2016 15:29:43 -0400</pubDate>
       
-      <guid>https://juliagreig.github.io/blog/firstpost/</guid>
-      <description>&lt;p&gt;Blog post number one&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the first blog post on the site&lt;/p&gt;
-</description>
+      <guid>https://juliagreig.github.io/blog/first/</guid>
+      <description>Blog post number one
+Here&amp;rsquo;s the first blog post on the site
+Not sure if this&amp;rsquo;ll work
+it will
+k</description>
     </item>
     
   </channel>
