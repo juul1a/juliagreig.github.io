@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julia</title>
-    <link>https://juliagreig.github.io/</link>
+    <link>juul1a.com/</link>
     <description>Recent content on Julia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Sep 2016 15:50:03 -0400</lastBuildDate>
     
-	<atom:link href="https://juliagreig.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="juul1a.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://juliagreig.github.io/about/</link>
+      <link>juul1a.com/about/</link>
       <pubDate>Sat, 24 Sep 2016 15:50:03 -0400</pubDate>
       
-      <guid>https://juliagreig.github.io/about/</guid>
+      <guid>juul1a.com/about/</guid>
       <description>still in progress ~ but until then enjoy this pic of me freezing my butt off at the toronto harbourfront!</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://juliagreig.github.io/blog/second/</link>
+      <link>juul1a.com/blog/second/</link>
       <pubDate>Sat, 24 Sep 2016 15:30:19 -0400</pubDate>
       
-      <guid>https://juliagreig.github.io/blog/second/</guid>
+      <guid>juul1a.com/blog/second/</guid>
       <description>Juia&amp;rsquo;s Second article
 Hey this is where juia also does some cool (ver cool) stuff</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://juliagreig.github.io/blog/first/</link>
+      <link>juul1a.com/blog/first/</link>
       <pubDate>Sat, 24 Sep 2016 15:29:43 -0400</pubDate>
       
-      <guid>https://juliagreig.github.io/blog/first/</guid>
+      <guid>juul1a.com/blog/first/</guid>
       <description>Blog post number one
 Here&amp;rsquo;s the first blog post on the site
 Not sure if this&amp;rsquo;ll work
