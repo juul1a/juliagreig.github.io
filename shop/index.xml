@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shop on Julia</title>
+    <link>http://juul1a.com/shop/</link>
+    <description>Recent content in Shop on Julia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://juul1a.com/shop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bullet Boss Script</title>
+      <link>http://juul1a.com/shop/bullet-boss/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://juul1a.com/shop/bullet-boss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature Asset Pack</title>
+      <link>http://juul1a.com/shop/nature-assets/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://juul1a.com/shop/nature-assets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

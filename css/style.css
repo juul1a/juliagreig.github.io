@@ -79,6 +79,22 @@ h2 {
 		/* margin-top: 20px; */
 		border-bottom: 1px solid #eee;
 }
+.profile-shop {
+		background-image: url('../images/Demo Scene w shopkeep for site.png');
+		background-position: center center;
+		background-repeat:  no-repeat;
+		/* background-attachment: fixed; */
+		background-size:  cover;
+		background-color: #999;
+		height:400px; /*was 475*/
+		/* margin-top: 20px; */
+		border-bottom: 1px solid #eee;
+}
+.profile-shop #wrapper{
+		padding: 30px 40px 0px;
+		max-width: 400px;
+		margin: 0 auto;
+}
 
 .profile #wrapper {
 	padding: 153px 40px 0px;
@@ -86,7 +102,7 @@ h2 {
 	margin: 0 auto;
 }
 
-.profile #header {
+.profile #header, .profile-shop #header {
 	/*border-bottom: 1px solid #eee;*/
 	margin-bottom: 30px;
 	/*padding-bottom: 40px;*/
@@ -94,7 +110,7 @@ h2 {
 	position: relative;
 }
 
-.profile #avatar {
+.profile #avatar, .profile-shop #avatar {
 
 	display: inline-block;
 	width: 200px;
@@ -104,7 +120,7 @@ h2 {
 	border: 1px solid #eee;
 }
 
-.profile #head-text{
+.profile #head-text, .profile-shop #head-text{
 	position:absolute;
 	left: 7%;
 	right: 7%;
@@ -300,7 +316,7 @@ em, i { font-style: italic; }
 #post-list h2 {
 	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
-	max-width: 400px;
+	/* max-width: 400px; */
 	margin-top: 2px;
 }
 
@@ -448,6 +464,18 @@ Post List
 	top: 1px;
 	font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
 	color: #bbb;
+}
+#post-list .thumb {
+	float: left;
+	/* margin:auto; */
+	position: relative;
+	top: 1px;
+	width: 200px;
+	/* height:100px; */
+}
+
+.shop-item-text{
+	padding-left:250px;
 }
 
 #post-list-footer {
@@ -693,6 +721,21 @@ h2.month {
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
+}
+
+@media screen and (max-width: 670px) {
+	#post-list .thumb {
+	    float: none;
+			padding-bottom: 10px;
+	    margin: auto;
+	    position: relative;
+	    top: 1px;
+	    width: 200px;
+	    /* height: 250px; */
+	}
+	.shop-item-text{
+		padding-left:0px;
+	}
 }
 
 
